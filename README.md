@@ -2,8 +2,8 @@
 
 I'm Louis, a budding Software Engineer from the midwest excited about all the opportunities to learn new things in tech.
 
-- 🔭 I’m currently working on ... **[Boltleg](https://github.com/LouisSavoie/boltleg)**, a [Puppet Bolt](https://github.com/puppetlabs/bolt) clone. This is a learning exercise for me in many Ruby-based technologies.
-- 🌱 I’m currently learning ... Ruby stuff! The language itself as well as Gems, Rake, Rubocop, Rspec, and how to use these tools with GitHub Actions.
+<!-- - 🔭 I’m currently working on ... **[Boltleg](https://github.com/LouisSavoie/boltleg)**, a [Puppet Bolt](https://github.com/puppetlabs/bolt) clone. This is a learning exercise for me in many Ruby-based technologies.
+- 🌱 I’m currently learning ... Ruby stuff! The language itself as well as Gems, Rake, Rubocop, Rspec, and how to use these tools with GitHub Actions. -->
 
 <!--
 **LouisSavoie/LouisSavoie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
