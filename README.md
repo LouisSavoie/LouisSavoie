@@ -2,6 +2,8 @@
 
 In order of complexity, impressiveness, development time, etc.
 
+Format: Repo(Demo) Description
+
 **[My Portfolio](https://github.com/LouisSavoie/portfolio2)** ([Live!](https://www.louissavoie.com)) Not complex, but a good source of information on projects, links my other accounts/profiles, contact info, and my resume.
 
 #### Apps
@@ -21,3 +23,9 @@ In order of complexity, impressiveness, development time, etc.
 - **[Infinite Monkey Theorem](https://github.com/LouisSavoie/infinite-monkey-theorem)** ([Live!](https://louissavoie.github.io/infinite-monkey-theorem/)) A simple webpage that generates random text.
 
 <!-- **[Boltleg](https://github.com/LouisSavoie/boltleg)** A simplified [Puppet Bolt](https://github.com/puppetlabs/bolt) clone. -->
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=louissavoie&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louissavoie&theme=github_dark&hide_border=true&layout=compact&langs_count=10)
+
+![](https://komarev.com/ghpvc/?username=louissavoie&color=blue)
