@@ -10,7 +10,8 @@ Format: Repo(Demo) Description
 - **[SimpleKarma](https://github.com/LouisSavoie/simple-karma)** ([Live!](https://discord.gg/8FfWyWS3gG)) A Discord bot for awarding and tracking points. Also, my most complex project so far.
 - **[rpu](https://github.com/LouisSavoie/rpu)** ([MVP Live!](https://rpu-mvp.herokuapp.com/)) A social network roleplaying game for motivation in real life skill building. Currently in MVP state.
 - **[Zed Reaction](https://github.com/LouisSavoie/zed-reaction)** (WIP) A React based zombie survival browser game.
-- **[BattleBot](https://github.com/LouisSavoie/battle-bot)** (WIP) A Discord bot for fighting your friends! A Ruby, RSpec, Rake, Bundler, and TDD practice app.
+- **[BattleBot](https://github.com/LouisSavoie/battle-bot)** ([MVP Live!](https://discord.gg/8FfWyWS3gG)) A Discord bot for fighting your friends! A Ruby, RSpec, Rubocop, YAML, and TDD practice app.
+- **[Omnicalc](https://github.com/LouisSavoie/omnicalc)** ([Live!](https://louissavoie.github.io/omnicalc/)) A set of calculators made with vanilla HTML/CSS/JS plus Bootstrap 5. Made for personal use, but I think they're kind of neat!
 
 #### Scripts
 - **[YouTube Crossposter](https://github.com/LouisSavoie/youtube-crossposter)** ([Video](https://www.youtube.com/watch?v=ZrnGF_HkO4c)) An app that tracks a YouTube channel and crossposts new videos to social media, currently Reddit.
