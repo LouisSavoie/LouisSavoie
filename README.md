@@ -27,6 +27,8 @@ Format: Repo(Demo) Description
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=louissavoie&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louissavoie&theme=github_dark&hide_border=true&layout=compact&langs_count=10)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=louissavoie&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louissavoie&theme=github_dark&hide_border=true&layout=compact&langs_count=10)
 
 ![](https://komarev.com/ghpvc/?username=louissavoie&color=blue)
+![](https://www.codewars.com/users/LouisSavoie/badges/small)
