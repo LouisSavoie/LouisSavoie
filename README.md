@@ -12,6 +12,7 @@ Format: Repo(Demo) Description
 - **[Zed Reaction](https://github.com/LouisSavoie/zed-reaction)** (WIP) A React based zombie survival browser game.
 - **[BattleBot](https://github.com/LouisSavoie/battle-bot)** ([MVP Live!](https://discord.gg/8FfWyWS3gG)) A Discord bot for fighting your friends! A Ruby, RSpec, Rubocop, YAML, and TDD practice app.
 - **[Omnicalc](https://github.com/LouisSavoie/omnicalc)** ([Live!](https://louissavoie.github.io/omnicalc/)) A set of calculators made with vanilla HTML/CSS/JS plus Bootstrap 5. Made for personal use, but I think they're kind of neat!
+- **[KakashiBot](https://github.com/LouisSavoie/kakashi-bot)** (Deployed Ad Hoc) A simple Discord bot written in Go that echos messages. Made for doing e2e testing of other Discord bots.
 
 #### Scripts
 - **[YouTube Crossposter](https://github.com/LouisSavoie/youtube-crossposter)** ([Video](https://www.youtube.com/watch?v=ZrnGF_HkO4c)) An app that tracks a YouTube channel and crossposts new videos to social media, currently Reddit.
