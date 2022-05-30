@@ -2,14 +2,17 @@
 
 In order of complexity, impressiveness, development time, etc.
 
-Format: Repo(Demo) Description
+Format: Repo(Demo/Prod) Description
 
 **[My Portfolio](https://github.com/LouisSavoie/portfolio2)** ([Live!](https://www.louissavoie.com)) Not complex, but a good source of information on projects, links my other accounts/profiles, contact info, and my resume.
+
+### Featured!
+- **[HiddenArcade](https://github.com/LouisSavoie/games-arcade)** ([Live!](https://www.hiddenarcade.net/)) My new ongoing side/passion project, an online arcade filled with all the silly little games my weird brain comes up with.
 
 #### Apps
 - **[SimpleKarma](https://github.com/LouisSavoie/simple-karma)** ([Live!](https://discord.gg/8FfWyWS3gG)) A Discord bot for awarding and tracking points. Also, my most complex project so far.
 - **[rpu](https://github.com/LouisSavoie/rpu)** ([MVP Live!](https://rpu-mvp.herokuapp.com/)) A social network roleplaying game for motivation in real life skill building. Currently in MVP state.
-- **[Zed Reaction](https://github.com/LouisSavoie/zed-reaction)** (WIP) A React based zombie survival browser game.
+<!-- - **[Zed Reaction](https://github.com/LouisSavoie/zed-reaction)** (WIP) A React based zombie survival browser game. -->
 - **[BattleBot](https://github.com/LouisSavoie/battle-bot)** ([MVP Live!](https://discord.gg/8FfWyWS3gG)) A Discord bot for fighting your friends! A Ruby, RSpec, Rubocop, YAML, and TDD practice app.
 - **[Omnicalc](https://github.com/LouisSavoie/omnicalc)** ([Live!](https://louissavoie.github.io/omnicalc/)) A set of calculators made with vanilla HTML/CSS/JS plus Bootstrap 5. Made for personal use, but I think they're kind of neat!
 - **[KakashiBot](https://github.com/LouisSavoie/kakashi-bot)** (Deployed Ad Hoc) A simple Discord bot written in Go that echos messages. Made for doing e2e testing of other Discord bots.
