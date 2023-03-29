@@ -2,7 +2,7 @@
 
 Format: Repo(Demo/Prod) Description
 
-- **[HiddenArcade](https://github.com/LouisSavoie/games-arcade)** ([Live!](https://www.hiddenarcade.net/)) An online arcade filled with all the silly little web games my weird brain comes up with. No tracking, your data is saved locally only, no ads, no bullsh*t!
+- **[HiddenArcade](https://github.com/LouisSavoie/hidden-arcade)** ([Live!](https://www.hiddenarcade.net/)) An online arcade filled with all the silly little web games my weird brain comes up with. No tracking, your data is saved locally only, no ads, no bullsh*t!
 - Coming soon, HiddenArcade's sister site, HiddenUtils. It will be a catalog of web untillities such as unique calculators and organizational apps.
 
 <!-- In order of complexity, impressiveness, development time, etc. -->
